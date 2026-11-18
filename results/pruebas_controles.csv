@@ -1,0 +1,4 @@
+caso,detectado,mensaje
+clave duplicada,True,order_id debe ser único y no nulo
+nota fuera de rango,True,nota_media fuera de 1 a 5
+fecha apta ausente,True,Un pedido apto para atraso no tiene todas sus fechas/indicadores

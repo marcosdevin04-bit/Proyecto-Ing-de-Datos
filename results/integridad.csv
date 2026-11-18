@@ -1,0 +1,8 @@
+relacion,claves_nulas,filas_sin_correspondencia
+orders.customer_id -> customers.customer_id,0,0
+order_items.order_id -> orders.order_id,0,0
+order_items.product_id -> products.product_id,0,0
+order_items.seller_id -> sellers.seller_id,0,0
+payments.order_id -> orders.order_id,0,0
+reviews.order_id -> orders.order_id,0,0
+products.product_category_name -> categories.product_category_name,610,13

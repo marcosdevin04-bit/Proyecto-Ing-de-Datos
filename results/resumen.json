@@ -1,0 +1,17 @@
+{
+  "pedidos": 99441,
+  "entregados": 96478,
+  "aptos_atraso": 96470,
+  "excluidos_atraso": 2971,
+  "entregados_excluidos": 8,
+  "tardios": 6534,
+  "porcentaje_tarde": 6.7730900798175595,
+  "aptos_sin_resena": 646,
+  "entrega_antes_despacho": 23,
+  "entrega_antes_compra": 0,
+  "aprobacion_antes_compra": 0,
+  "meses_graficados_n": 96468,
+  "cancelado_con_entrega": 6,
+  "pago_comparables": 98665,
+  "pago_diferencia_mayor_005": 260
+}

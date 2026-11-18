@@ -1,15 +1,7 @@
-# Entorno virtual
 .venv/
-
-# Datos originales
 data/raw/
-
-# Archivos de Mac
 .DS_Store
-
-# Python
 __pycache__/
 *.pyc
-
-# Jupyter
 .ipynb_checkpoints/
+.mplconfig/

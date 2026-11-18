@@ -1,0 +1,7 @@
+regla,casos
+Precio negativo o nulo,0
+Flete negativo o nulo,0
+Pago negativo o nulo,0
+Nota fuera de 1 a 5 o nula,0
+Cuotas cero (advertencia),2
+Pago cero (advertencia),9
